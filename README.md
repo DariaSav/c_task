@@ -1,2 +1,2 @@
-# c_task
+# c_task2
 c++ course tasks
